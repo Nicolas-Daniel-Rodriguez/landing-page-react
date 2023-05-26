@@ -8,7 +8,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://github.com/Nicolas-Daniel-Rodriguez/landing-page-react/blob/main/src/assets/portada.png" alt="project-screenshot" width="500" height="400/">
+<img src="https://github.com/Nicolas-Daniel-Rodriguez/landing-page-react/blob/main/src/assets/portada.png" alt="project-screenshot" width="700" height="400/">
 
   
   
