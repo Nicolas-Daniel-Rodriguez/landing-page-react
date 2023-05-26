@@ -14,48 +14,48 @@ const Footer = () => {
                 <h1 className="w-full text-3xl font-bold text-primary">REACT.</h1>
                 <p className="py-4">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Exercitationem sit quia aspernatur libero impedit excepturi fugiat nesciunt eaque quo consequuntur. Similique nobis error explicabo unde earum voluptates quos sit voluptatum.</p>
                 <div className="flex justify-between md:w-[75% my-6]">
-                    <FaFacebookSquare size={30}/>
-                    <FaInstagram size={30}/>
-                    <FaTwitterSquare size={30}/>
-                    <FaGithubSquare size={30}/>
-                    <FaDribbbleSquare size={30}/>
+                    <FaFacebookSquare size={30} className="hover:scale-125 duration-300"/>
+                    <FaInstagram size={30} className="hover:scale-125 duration-300"/>
+                    <FaTwitterSquare size={30} className="hover:scale-125 duration-300"/>
+                    <FaGithubSquare size={30} className="hover:scale-125 duration-300"/>
+                    <FaDribbbleSquare size={30} className="hover:scale-125 duration-300"/>
                 </div>
             </div>
             <div className="lg:col-span-2 flex justify-between mt-6">
                 <div>
                     <h6 className="font-medium text-gray-400">Solutions</h6>
                     <ul>
-                        <li className="py-2 text-sm">Analytics</li>
-                        <li className="py-2 text-sm">Marketing</li>
-                        <li className="py-2 text-sm">Commerce</li>
-                        <li className="py-2 text-sm">Insights</li>
+                        <li className="py-2 text-sm hover:text-primary">Analytics</li>
+                        <li className="py-2 text-sm hover:text-primary">Marketing</li>
+                        <li className="py-2 text-sm hover:text-primary">Commerce</li>
+                        <li className="py-2 text-sm hover:text-primary">Insights</li>
                     </ul>
                 </div>
                 <div>
                     <h6 className="font-medium text-gray-400">Sopport</h6>
                     <ul>
-                        <li className="py-2 text-sm">Pricing</li>
-                        <li className="py-2 text-sm">Documentation</li>
-                        <li className="py-2 text-sm">Guides</li>
-                        <li className="py-2 text-sm">API Status</li>
+                        <li className="py-2 text-sm hover:text-primary">Pricing</li>
+                        <li className="py-2 text-sm hover:text-primary">Documentation</li>
+                        <li className="py-2 text-sm hover:text-primary">Guides</li>
+                        <li className="py-2 text-sm hover:text-primary">API Status</li>
                     </ul>
                 </div>
                 <div>
                     <h6 className="font-medium text-gray-400">Company</h6>
                     <ul>
-                        <li className="py-2 text-sm">About</li>
-                        <li className="py-2 text-sm">Blog</li>
-                        <li className="py-2 text-sm">Jobs</li>
-                        <li className="py-2 text-sm">Press</li>
-                        <li className="py-2 text-sm">Careers</li>
+                        <li className="py-2 text-sm hover:text-primary">About</li>
+                        <li className="py-2 text-sm hover:text-primary">Blog</li>
+                        <li className="py-2 text-sm hover:text-primary">Jobs</li>
+                        <li className="py-2 text-sm hover:text-primary">Press</li>
+                        <li className="py-2 text-sm hover:text-primary">Careers</li>
                     </ul>
                 </div>
                 <div>
                     <h6 className="font-medium text-gray-400">Legal</h6>
                     <ul>
-                        <li className="py-2 text-sm">Claim</li>
-                        <li className="py-2 text-sm">Policy</li>
-                        <li className="py-2 text-sm">Terms</li>
+                        <li className="py-2 text-sm hover:text-primary">Claim</li>
+                        <li className="py-2 text-sm hover:text-primary">Policy</li>
+                        <li className="py-2 text-sm hover:text-primary">Terms</li>
                     </ul>
                 </div>
 

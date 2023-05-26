@@ -18,7 +18,7 @@ const Hero = () => {
                     />
                 </div>
                 <p className="md:text-2xl text-xl font-bold text-gray-500">Monitor your data analytics to increase revenue for BTB, BTC, & SASS plataform.</p>
-                <button className="bg-primary w-[200px] rounded-md font-medium my-6 mx-auto py-3 text-black">Get Started</button>
+                <button className="bg-primary w-[200px] rounded-md font-medium my-6 mx-auto py-3 text-black hover:scale-105 duration-300">Get Started</button>
             </div>
         </div>
     )

@@ -16,7 +16,7 @@ const Cards = () => {
                         <p className="py-2 border-b mx-8">1 Granted User</p>
                         <p className="py-2 border-b mx-8">Send up to 2 GB</p>
                     </div>
-                    <button className="bg-primary w-[200px] rounded-md font-medium my-6 mx-auto py-3 text-black">
+                    <button className="bg-primary w-[200px] rounded-md font-medium my-6 mx-auto py-3 text-black hover:scale-105 duration-300">
                         Start Trial
                     </button>
                 </div>
@@ -29,7 +29,7 @@ const Cards = () => {
                         <p className="py-2 border-b mx-8">1 Granted User</p>
                         <p className="py-2 border-b mx-8">Send up to 2 GB</p>
                     </div>
-                    <button className="bg-black w-[200px] rounded-md font-medium my-6 mx-auto py-3 text-primary">
+                    <button className="bg-black w-[200px] rounded-md font-medium my-6 mx-auto py-3 text-primary hover:scale-105 duration-300">
                         Start Trial
                     </button>
                 </div>
@@ -42,7 +42,7 @@ const Cards = () => {
                         <p className="py-2 border-b mx-8">1 Granted User</p>
                         <p className="py-2 border-b mx-8">Send up to 2 GB</p>
                     </div>
-                    <button className="bg-primary w-[200px] rounded-md font-medium my-6 mx-auto py-3 text-black">
+                    <button className="bg-primary w-[200px] rounded-md font-medium my-6 mx-auto py-3 text-black hover:scale-105 duration-300">
                         Start Trial
                     </button>
                 </div>
